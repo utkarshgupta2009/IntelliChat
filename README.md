@@ -14,8 +14,8 @@ Welcome to the Flutter AI Chatbot project! This project demonstrates the integra
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/flutter-ai-chatbot.git
-   cd flutter-ai-chatbot
+   git clone https://github.com/utkarshgupta2009/IntelliChat.git
+   cd IntelliChat
    ```
 
 2. Install dependencies:
@@ -24,7 +24,7 @@ Welcome to the Flutter AI Chatbot project! This project demonstrates the integra
    flutter pub get
    ```
 
-3. Create a new project on the [OpenAI platform](https://beta.openai.com/signup/) to obtain the API key for ChatGPT. Replace `'YOUR_API_KEY'` in the `lib/services/chat_service.dart` file with your actual API key.
+3. Create a new project on the [OpenAI platform]to obtain the API key for ChatGPT. Replace `'YOUR_API_KEY'` in the `lib/constants.dart` file with your actual API key.
 
 ## Usage
 

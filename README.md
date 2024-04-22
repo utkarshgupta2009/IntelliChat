@@ -41,8 +41,7 @@ Explore the chatbot interface and start interacting with Gemini-powered conversa
 - `lib/`: Contains the main Dart code for the Flutter application.
   - `main.dart`: Entry point for the Flutter app.
   - `screens/`: Screens or pages of the app.
-  - `animation/`: Animations fro the project
-  - `widgets/`: Reusable UI components.
+  
 
 
 ## License

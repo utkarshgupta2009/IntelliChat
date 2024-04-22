@@ -1,6 +1,6 @@
 # IntelliChat
 
-Welcome to the Flutter AI Chatbot project! This project demonstrates the integration of ChatGPT, a powerful language model developed by OpenAI, into a Flutter application to create an intelligent and conversational chatbot.
+Welcome to the Flutter AI Chatbot project! This project demonstrates the integration of Gemini, a powerful language model developed by Google, into a Flutter application to create an intelligent and conversational chatbot.
 
 ## Getting Started
 
@@ -24,7 +24,7 @@ Welcome to the Flutter AI Chatbot project! This project demonstrates the integra
    flutter pub get
    ```
 
-3. Create a new project on the [OpenAI platform]to obtain the API key for ChatGPT. Replace `'YOUR_API_KEY'` in the `lib/constants.dart` file with your actual API key.
+3. Create a new key on the Google gemini website to obtain the API key. Replace `'YOUR_API_KEY'` in the `lib/constants.dart` file with your actual API key.
 
 ## Usage
 
@@ -34,7 +34,7 @@ Run the Flutter application on an emulator or a physical device:
 flutter run
 ```
 
-Explore the chatbot interface and start interacting with ChatGPT-powered conversations.
+Explore the chatbot interface and start interacting with Gemini-powered conversations.
 
 ## Project Structure
 

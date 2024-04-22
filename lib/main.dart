@@ -1,8 +1,10 @@
 import 'package:any_chat/Screens/ChatScreen.dart';
+import 'package:any_chat/constants.dart';
 import 'package:flutter/material.dart';
-
+import 'package:flutter_gemini/flutter_gemini.dart';
 
 void main() {
+  Gemini.init(apiKey: api_key);
 
   runApp(const MyApp());
 }

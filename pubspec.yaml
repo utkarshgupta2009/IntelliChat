@@ -29,10 +29,13 @@ environment:
 # versions available, run `flutter pub outdated`.
 dependencies:
   
-  chat_gpt_sdk: ^2.2.5
   flutter:
     sdk: flutter
   velocity_x: ^4.1.1
+  flutter_gemini: ^2.0.3
+  get:
+  dash_chat_2: ^0.0.20
+  image_picker:
 
 
   # The following adds the Cupertino Icons font to your application.

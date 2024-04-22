@@ -1,1 +1,1 @@
-var api_key = "AIzaSyCOx-Oe72nqED-hKs-beH2iNvx_aUGc-OU";
+var api_key = "Your API Key";
